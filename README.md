@@ -1,2 +1,2 @@
 # styles
-c code style guides
+style guides
